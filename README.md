@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KEC Academic Management System (Java JDBC + MariaDB)
 
 ## Features
@@ -61,3 +62,6 @@ The assignment PDF specifies the features but does not provide a complete author
 - Attendance: >=75% eligible; 65–74.99% requires medical approval; below 65% is SA/not eligible.
 These are configurable demo assumptions, not a claim about official KEC regulations. Confirm the exact weights and grade boundaries with your department before final submission.
 The program displays the enrollment ID in option 10; use it for attendance and marks entry.
+=======
+# Java-JDPC-Mini-Project
+>>>>>>> 3e6c4a971620fc981c4a5420ee908d437460be55
