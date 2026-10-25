@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # KEC Academic Management System (Java JDBC + MariaDB)
 
 ## Features
@@ -65,3 +66,6 @@ The program displays the enrollment ID in option 10; use it for attendance and m
 =======
 # Java-JDPC-Mini-Project
 >>>>>>> 3e6c4a971620fc981c4a5420ee908d437460be55
+=======
+# Java-JDPC-Mini-Project
+>>>>>>> 205e5406ff39975bc0981cca55dd3486291c938d
